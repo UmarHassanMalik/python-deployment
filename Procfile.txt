@@ -1,4 +1,3 @@
-worker: python scripts.py
 boost==0.1
 cmake==0.7.1
 boost-py
